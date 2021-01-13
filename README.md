@@ -2,7 +2,7 @@
 <h2>The link menu below contains direct links to every folder in the database-nci Git repo.</h2>
 
 <ol>
-<li><a href="#" target="_blank">Creating Tables and Learning Different Data Types</a></li>
+<li><a href="https://github.com/dunieskiotano/database-nci/blob/master/Create%20a%20Table/Creating%20Tables%20and%20Learning%20Different%20Data%20Types.sql" target="_blank">Creating Tables and Learning Different Data Types</a></li>
 <!-- <li><a href="https://github.com/dunieskiotano/programming-basics/tree/master/Collections" target="_blank">Collections</a></li>
 <ul>
 <li><a href="https://github.com/dunieskiotano/programming-basics/blob/master/Collections/Arrays/arrays.py" target="_blank">Arrays</a> 
