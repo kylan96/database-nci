@@ -1,4 +1,4 @@
--- Database class --
+
 -- This creates a table named employee
 
 --  Beginning of Table Creation ------
