@@ -3,8 +3,9 @@
 
 <ol>
 <li><a href="https://github.com/dunieskiotano/database-nci/blob/master/Create%20a%20Table/Creating%20Tables%20and%20Learning%20Different%20Data%20Types.sql" target="_blank">Creating Tables and Learning Different Data Types</a></li>
-<!-- <li><a href="https://github.com/dunieskiotano/programming-basics/tree/master/Collections" target="_blank">Collections</a></li>
-<ul>
+<li><a href="#">Inserting Data into a Database</a></li>
+ <li><a href="#">Selecting Data from a Database</a></li>
+<!-- <ul>
 <li><a href="https://github.com/dunieskiotano/programming-basics/blob/master/Collections/Arrays/arrays.py" target="_blank">Arrays</a> 
  <li><a href="https://github.com/dunieskiotano/programming-basics/blob/master/Collections/Tuples/tuples.py" target="_blank">Tuples</a></li>
   <li><a href="https://github.com/dunieskiotano/programming-basics/blob/master/Collections/Lists/lists.py" target="_blank">Lists</a></li>
