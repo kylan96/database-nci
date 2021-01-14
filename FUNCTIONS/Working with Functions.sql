@@ -104,10 +104,6 @@ SELECT UCASE('cuba')
 -- Capitalize the first letter of the word cuba
 SELECT CONCAT(UCASE(SUBSTRING('cuba', 1, 1)), (SUBSTRING('cuba', 2, LENGTH('cuba')))) AS "Cuba - first letter capitalized"
 
-
-
-
-
 -- Adds 1 day to today's date with function DATE_ADD(), DATE(), and NOW()
 SELECT DATE_ADD(DATE(NOW()), INTERVAL 1 DAY)  
 -- Adds 1 month to today's date with functions DATE_ADD(), CURDATE()
