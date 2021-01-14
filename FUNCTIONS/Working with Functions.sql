@@ -9,8 +9,6 @@ CREATE TABLE product
  	product_price DECIMAL(10,2) NOT NULL	
 )
 
-
-
 CREATE TABLE time_test 
 (
 	purchase_date TIMESTAMP not null,
