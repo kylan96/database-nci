@@ -5,6 +5,7 @@
 <li><a href="https://github.com/dunieskiotano/database-nci/blob/master/Create%20a%20Table/Creating%20Tables%20and%20Learning%20Different%20Data%20Types.sql" target="_blank">Creating Tables and Learning Different Data Types</a></li>
 <li><a href="https://github.com/dunieskiotano/database-nci/blob/master/INSERT%20Statement/Inserting%20Data%20into%20a%20Database.sql">Inserting Data into a Database</a></li>
  <li><a href="https://github.com/dunieskiotano/database-nci/blob/master/SELECT%20Statement/Selecting%20Data%20from%20a%20Database.sql">Selecting Data from a Database</a></li>
+ <li><a href="https://github.com/dunieskiotano/database-nci/blob/master/FUNCTIONS/Working%20with%20Functions.sql">Working with Functions</a></li>
 <!-- <ul>
 <li><a href="https://github.com/dunieskiotano/programming-basics/blob/master/Collections/Arrays/arrays.py" target="_blank">Arrays</a> 
  <li><a href="https://github.com/dunieskiotano/programming-basics/blob/master/Collections/Tuples/tuples.py" target="_blank">Tuples</a></li>
@@ -18,4 +19,8 @@
  <li><a href="https://github.com/dunieskiotano/programming-basics/blob/master/Loops/for-loop.py" target="_blank">Loops</a></li>
  <li><a href="https://github.com/dunieskiotano/programming-basics/blob/master/Colors/colors.py" target="_blank">Colors</a></li> -->
 <ol>
+ 
+ 
+ 
+ 
 
