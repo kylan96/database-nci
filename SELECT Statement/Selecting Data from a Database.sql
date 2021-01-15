@@ -1,3 +1,5 @@
+-- Lesson 4: Selecting Data from a Database
+
 -- Print today's date
 SELECT DATE(NOW())
 
