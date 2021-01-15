@@ -150,7 +150,7 @@ WHERE citizen_firstname LIKE '_u%'
 
 -- Regular Expressions to find matches 
 SELECT * FROM citizen             
-WHERE citizen_year_of_birth REGEXP '^...[0-9]$'
+WHERE citizen_year_of_birth REGEXP '^...[1-5]$'
 
 
 
