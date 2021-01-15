@@ -1,4 +1,4 @@
--- WORKING WITH FUNCTIONS
+-- Lesson 6: Working with Functions
 
 -- TABLE CREATION SECTION 
 CREATE TABLE product 
