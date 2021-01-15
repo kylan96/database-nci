@@ -7,7 +7,7 @@
  <li><a href="https://github.com/dunieskiotano/database-nci/blob/master/SELECT%20Statement/Selecting%20Data%20from%20a%20Database.sql">Selecting Data from a Database</a></li>
  <li><a href="https://github.com/dunieskiotano/database-nci/blob/master/CONDITIONAL%20SEARCHES/Performing%20a%20Conditional%20Search.sql">Performing a Conditional Search</a></li>
  <li><a href="https://github.com/dunieskiotano/database-nci/blob/master/FUNCTIONS/Working%20with%20Functions.sql">Working with Functions</a></li>
- <li><a href="https://github.com/dunieskiotano/database-nci/blob/master/Organizing%20Data/Organizing%20Data.sql>Organizing Data</a></li>
+ <li><a href="https://github.com/dunieskiotano/database-nci/blob/master/Organizing%20Data/Organizing%20Data.sql">Organizing Data</a></li>
 <!-- <ul>
 <li><a href="https://github.com/dunieskiotano/programming-basics/blob/master/Collections/Arrays/arrays.py" target="_blank">Arrays</a> 
  <li><a href="https://github.com/dunieskiotano/programming-basics/blob/master/Collections/Tuples/tuples.py" target="_blank">Tuples</a></li>
