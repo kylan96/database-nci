@@ -1,4 +1,4 @@
-
+-- Lesson 3: Inserting Data into a Database
 -- DDL Commands ---
 
 -- Creates table named products
