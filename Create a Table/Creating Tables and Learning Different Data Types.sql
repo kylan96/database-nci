@@ -1,6 +1,6 @@
+-- Lesson 2: Creating Tables and Learning Different Data Types
 
 -- This creates a table named employee
-
 --  Beginning of Table Creation ------
 CREATE TABLE IF NOT EXISTS employee
 (
