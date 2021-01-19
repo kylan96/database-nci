@@ -9,7 +9,8 @@
  <li><a href="https://github.com/dunieskiotano/database-nci/blob/master/FUNCTIONS/Working%20with%20Functions.sql">Working with Functions</a></li>
  <li><a href="https://github.com/dunieskiotano/database-nci/blob/master/Organizing%20Data/Organizing%20Data.sql">Organizing Data</a></li>
  <li><a href="https://github.com/dunieskiotano/database-nci/blob/master/Retrieving%20Data%20From%20Multiple%20Tables/Retrieving%20Data%20from%20Multiple%20Tables.sql">Retrieving Data from Multiple Tables</a></li>
- 
+ <li><a href="https://github.com/dunieskiotano/database-nci/tree/master/Indexes">Indexes</a></li>
+ <li><a href="https://github.com/dunieskiotano/database-nci/blob/master/UPDATE%20%26%20DELETE%20Statements/Updating:Deleting%20Tables.sql">Update and Delete Tables</a></li>
  
 <!-- <ul>
 <li><a href="https://github.com/dunieskiotano/programming-basics/blob/master/Collections/Arrays/arrays.py" target="_blank">Arrays</a> 
